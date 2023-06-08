@@ -1,5 +1,5 @@
 Package: SAI.Estimator
-Title: What the Package Does (One Line, Title Case)
+Title: Estimate new SAI for 2024-25
 Version: 0.0.0.9000
 Authors@R: 
     person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
